@@ -1,5 +1,7 @@
 # buffer_overflow_13
 
+//Author name: Akib Ahmed
+
 #1. Create c file and write the code: <br>
  •	At first, we create a c file containing the code we are given, naming it vulnerable.c. Then we see the code in the terminal using the cat vulnerable.c command.
 ![](Screen_Shots/0.png)
