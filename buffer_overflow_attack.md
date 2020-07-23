@@ -20,14 +20,14 @@
 •	After that we set ulimit to unlimited and check again:
 ![](Screen_Shots/5.png)
 
-#3. Compiling the c program:
+#3. Compiling the c program: <br>
 •	Then we compile the c program and run it by the following command which may be terminated because of the unavailability of a library function. If it is terminated then we have to install the library using the command:
 ![](Screen_Shots/6.png)
 
 •	Many packages will be installed during the whole process. After finishing, then we have to compile and run the file again:
 ![](Screen_Shots/7.png)
 
-#4. Using GNU Debugger (GDB) and Exploit Buffer:
+#4. Using GNU Debugger (GDB) and Exploit Buffer: <br>
 •	Then we enter into the gdb terminal using gdb ./vulnerable
 ![](Screen_Shots/8.png)
 
